@@ -1,2 +1,2 @@
-# IR_Controller
+# IR_PC_Controller
 IR_Remote_Controller_for_Disabled_Persons
