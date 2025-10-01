@@ -11,7 +11,7 @@
 ## 📦 Setup 
 1. `Refer to the circuit diagram`  
 2. `Install and open Arduino IDE`  
-3. `Open the 'radio.ino'`  
+3. `Open the 'ir_controller.ino'`  
 4. `Plug the 'Arduino Pro Micro' into your computer`  
 5. `Select 'Tools>Board>Arduino AVR Boards>Arduino Micro'`
 6. `Tools>Port>'Select the arduino's port'`
