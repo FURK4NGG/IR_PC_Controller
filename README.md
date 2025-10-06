@@ -14,7 +14,7 @@
 3. `Plug the 'Arduino Pro Micro' into your computer`
 4. `Select 'Tools>Board>Arduino AVR Boards>Arduino Micro'`
 5. `Tools>Port>'Select the arduino's port'`
-6. `Click the 'upload ➡️' button`
+6. `Click the 'upload ➡️' button`  
 ✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**  
 
 ## 🎉 Run  
