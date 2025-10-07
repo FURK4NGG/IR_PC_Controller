@@ -19,11 +19,11 @@
 ✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**  
 
 ## 🎉 Run  
-`After connecting the USB device to the computer, you can perform the following operations via the controller:`
+`After connecting the USB device to the computer, you can perform the following operations via the controller:`  
 `
-1- Printscreen
-2- Alt+F4+Enter
-3- Ctrl+C
+1- Printscreen  
+2- Alt+F4+Enter  
+3- Ctrl+C  
 4 and 5 – Left blank for defining personalized, scheduled shortcuts
 6- Win+D
 7- F11
