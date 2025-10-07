@@ -20,7 +20,8 @@
 
 ## 🎉 Run  
 `After connecting the USB device to the computer, you can perform the following operations via the controller:`
-`1- Printscreen
+`
+1- Printscreen
 2- Alt+F4+Enter
 3- Ctrl+C
 4 and 5 – Left blank for defining personalized, scheduled shortcuts
@@ -39,9 +40,6 @@ OK- Play/Pause
 ↑- Volume Up
 ↓- Volume Down
 `
-
-
-Kullanımı:USB aygıtını kullanacağınız bilgisayara bağladıktan sonra şu işlemleri kumanda üzerinden gerçekleştirebilirsiniz:<br>1- Printscreen<br><br>3- Ctrl+C<br>4 ve 5- Kişiye özel planlı kısayol tanımlaması için boş bırakılmıştır<br>4 and 5 – Left blank for defining personalized, scheduled shortcuts<br>7- F11<br>8- Enter<br>9- Alt+Shift<br>*- ESC<br>#- Alt+Tab<br><br>Harhangi bir medya oynatısıcı için:<br>OK- Oynat/Durdur<br>←- Bir önceki ögeye dön<br>→- Bir sonraki ögeye git<br>↑- Ses Yükseltme<br>↓- Ses Alçaltma<
 
 
 ## 🔒 License  
