@@ -20,26 +20,26 @@
 
 ## 🎉 Run  
 `After connecting the USB device to the computer, you can perform the following operations via the controller:`  
-`
-1- Printscreen  
-2- Alt+F4+Enter  
-3- Ctrl+C  
-4 and 5 – Left blank for defining personalized, scheduled shortcuts
-6- Win+D
-7- F11
-8- Enter
-9- Alt+Shift
-*- ESC
-#- Alt+Tab
-`
-`
-For any media player:
-OK- Play/Pause
-←- Go back to the previous item
-→- Go to the next item
-↑- Volume Up
-↓- Volume Down
-`
+
+`1- Printscreen`
+`2- Alt+F4+Enter`
+`3- Ctrl+C`
+`4 and 5 – Left blank for defining personalized, scheduled shortcuts`
+`6- Win+D`
+`7- F11`
+`8- Enter`
+`9- Alt+Shift`
+`*- ESC`
+`#- Alt+Tab`
+
+
+`For any media player:`
+`OK- Play/Pause`
+`←- Go back to the previous item`
+`→- Go to the next item`
+`↑- Volume Up`
+`↓- Volume Down`
+
 
 
 ## 🔒 License  
