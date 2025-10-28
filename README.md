@@ -8,6 +8,15 @@
 <h1 align="center">The design aims to provide a solution that can accelerate simple computer operations for individuals with mobility limitations.</h1>  
 
 
+## 🔎 Preparation
+<details>
+<summary>1. Components</summary>
+'1' Arduino Pro Micro<br>
+'1' IR Receiver (1838B IR Receiver)<br>
+'1' IR Transmitter Remote or Mobile Application
+</details>
+
+
 ## 📦 Setup 
 1. `Refer to the circuit diagram`
 2. `Install the 'Arduino IDE' software and open 'ir_controller.ino' file`
