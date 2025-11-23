@@ -1,7 +1,8 @@
-<!-- Proje-Resmi -->
-
 ## 👀 IR_PC_Controller Overview  
 <h1 align="center">IR Remote Controller for Users with Mobility Impairment</h1>  
+
+
+![Image](https://github.com/user-attachments/assets/dc5b5ff5-2503-4486-9097-addcef90b5c4)
 
 
 ## 🚀 Features  
