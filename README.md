@@ -2,7 +2,7 @@
 <h1 align="center">IR Remote Controller for Users with Mobility Impairment</h1>  
 
 
-![Image](https://github.com/FURK4NGG/IR_PC_Controller/blob/main/{}/ir-pc-controller.webp)
+![IR_PC_Controller Demo Image](https://github.com/FURK4NGG/IR_PC_Controller/blob/main/{}/ir-pc-controller.webp)
 
 
 ## 🚀 Features  
